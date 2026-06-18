@@ -17,6 +17,9 @@ I am an **Electronic Engineer** and **Technologist in Information Systems** (SEN
 - 🚀 Currently working at **ABCHROY S.A.S.** as a **Full-Stack Developer**, building scalable ERP/CRM solutions using **Next.js, TypeScript, and PostgreSQL**.
 - 🧠 Passionate about **Artificial Intelligence** and **Computer Vision**, developing personal projects with **Python and Deep Learning**.
 - ⚡ Background in **Industrial Automation & Telemetry** at **Ecopetrol**, managing high-power systems and industrial control.
+- 🔆 Supervising **980+ photovoltaic rural electrification solutions** 
+  and electrical infrastructure projects at **Alcaldía de Plato** 
+  under RETIE/RETILAP regulations.
 - 🌐 Solid knowledge in **Telematics & Networking**: TCP/IP, VLANs, and network security.
 
 ---
@@ -47,13 +50,15 @@ I am an **Electronic Engineer** and **Technologist in Information Systems** (SEN
 
 ### 📂 Featured Projects  
 
-🔹 [**ERP and CRM Modules**]  
-(Request a demo) Development of business logic and dynamic dashboards with **Next.js and Supabase**.
+🔹 [**ERP and CRM — Production Apps**] *(private repo — proprietary)*
+Full-Stack platform built with Next.js, TypeScript, Supabase and Node.js.
+Features: Kanban board (dnd-kit), real-time analytics (Chart.js),
+automated financial settlements via RPC — 70% reduction in admin processing time.
 
 🔹 [**ASL Classifier**](https://github.com/Cdhernandezr/SignMNIST-Classifier)  
 Real-time Sign Language recognition using **Computer Vision** and Deep Learning.
 
-🔹 [**Solar Anomaly Detector**](https://github.com/Cdhernadnezr/solar-anomaly-detector)  
+🔹 [**Solar Anomaly Detector**](https://github.com/Cdhernandezr/solar-anomaly-detector)  
 Deep Learning project for detecting anomalies in infrared solar panels using **CNNs with PyTorch**.
 
 🔹 **[AI Medical Conversation Analyzer](https://github.com/Cdhernandezr/ElSol-Challenge-Cdhernandezr)**  
